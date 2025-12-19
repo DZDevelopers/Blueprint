@@ -16,29 +16,26 @@ PCB
 Case & Assembly
 <img width="1600" height="900" alt="3c3cffdd-94ce-42c7-9ca6-fdfc99ae4e37" src="https://github.com/user-attachments/assets/caa0fe27-4d8b-4ed0-a58c-814580734977" />
 
-Features
-
-8 mechanical keys (2×4 layout)
-
-Cherry MX-style switches
-
-RGB lighting (SK6812 Mini)
-
-Powered by XIAO RP2040
-🔧 Hardware Overview
+Hardware Overview
 
 Microcontroller: Seeed Studio XIAO RP2040
 
-Switches: Cherry MX compatible
+Switches: Cherry MX compatible mechanical switches
 
-LEDs: SK6812 Mini (per-key RGB)
+LEDs: SK6812 Mini RGB LEDs (per key)
 
 Layout: 2 rows × 4 columns
 
-Use case: Macros, shortcuts, gaming, productivity
+Use case: Macros, shortcuts, gaming, and productivity
 
 Bill of Materials (BOM)
-2	SK6812MINI	RGB LED, 8	Cherry MX Switch	Mechanical keyboard switches, 1	XIAO-RP2040-DIP microcontroller
-—	1	Custom designed PCB
-—	1	Case 3D-printed
 
+2 × SK6812 Mini RGB LEDs
+
+8 × Cherry MX mechanical keyboard switches
+
+1 × XIAO-RP2040-DIP microcontroller
+
+1 × Custom-designed PCB
+
+1 × Case (3D-printed)
