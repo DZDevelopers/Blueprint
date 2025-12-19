@@ -6,6 +6,7 @@ An 8-key (2×4) mechanical macropad powered by a Seeed Studio XIAO RP2040, desig
 This project is fully open-source and includes schematics, PCB design, and a simple enclosure.
 
 Overall Hackpad
+<img width="596" height="510" alt="image" src="https://github.com/user-attachments/assets/a0568713-e2b4-4e62-a184-29094f99231f" />
 
 Schematic
 <img width="643" height="478" alt="image" src="https://github.com/user-attachments/assets/8fd1a379-40b3-4d8a-b792-47a103ddd44a" />
